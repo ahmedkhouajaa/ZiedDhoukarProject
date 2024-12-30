@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70007228788",
+    "project_id": "zieddhoukar-92ae3",
+    "storage_bucket": "zieddhoukar-92ae3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70007228788:android:bc48d72895183043e78421",
+        "android_client_info": {
+          "package_name": "com.example.zieddhoukar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClnHHPmLiYoGivAyXrVlc8MdTZjJwHF7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
